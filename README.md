@@ -29,6 +29,10 @@ WEB： num run dev:h5
 
 ## 外卖系统开发
 ### 视觉设计稿
-![](https://tva1.sinaimg.cn/large/006tNbRwgy1gbmyt3e8fhj30km146jvc.jpg)
-![](https://tva1.sinaimg.cn/large/006tNbRwgy1gbmyu10paaj30km146gpl.jpg)
+
+<figure class="half">
+    <img width="200" src="https://tva1.sinaimg.cn/large/006tNbRwgy1gbmyt3e8fhj30km146jvc.jpg">
+    <img width="200" src="https://tva1.sinaimg.cn/large/006tNbRwgy1gbmyu10paaj30km146gpl.jpg">
+</figure>
+
 ## 课程总结

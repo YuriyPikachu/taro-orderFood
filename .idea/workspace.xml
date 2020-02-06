@@ -4,8 +4,6 @@
     <list default="true" id="bd49f54f-f5e4-47d8-b3ce-241e8f858e41" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/2.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +77,7 @@
       <workItem from="1580911481003" duration="15754000" />
       <workItem from="1580978936798" duration="254000" />
       <workItem from="1580982170544" duration="1258000" />
-      <workItem from="1580985976453" duration="1133000" />
+      <workItem from="1580985976453" duration="1312000" />
     </task>
     <task id="LOCAL-00001" summary="[mod] 命名等">
       <created>1580813218100</created>
@@ -116,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580986077752</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="[add] 修改图片">
+      <created>1580993488700</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580993488701</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,25 +131,26 @@
     <MESSAGE value="[mod] 命名等" />
     <MESSAGE value="[add] 菜品信息" />
     <MESSAGE value="[add] 添加菜品逻辑" />
-    <option name="LAST_COMMIT_MESSAGE" value="[add] 添加菜品逻辑" />
+    <MESSAGE value="[add] 修改图片" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add] 修改图片" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="267" y="23" key="CommitChangelistDialog2" timestamp="1580986077610">
+    <state x="267" y="23" key="CommitChangelistDialog2" timestamp="1580993488535">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="267" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1580986077610" />
-    <state x="108" y="59" key="DiffContextDialog" timestamp="1580882587732">
+    <state x="267" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1580993488535" />
+    <state x="108" y="59" key="DiffContextDialog" timestamp="1580993479304">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="108" y="59" key="DiffContextDialog/0.23.1440.877@0.23.1440.877" timestamp="1580882587732" />
+    <state x="108" y="59" key="DiffContextDialog/0.23.1440.877@0.23.1440.877" timestamp="1580993479304" />
     <state x="205" y="103" key="SettingsEditor" timestamp="1580956741098">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="205" y="103" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1580956741098" />
-    <state x="0" y="380" key="Vcs.Push.Dialog.v2" timestamp="1580986080467">
+    <state x="0" y="380" key="Vcs.Push.Dialog.v2" timestamp="1580993490829">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="0" y="380" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1580986080467" />
+    <state x="0" y="380" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1580993490829" />
     <state x="351" y="718" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580969667634">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
