@@ -42,6 +42,6 @@ export default class Index extends Component {
   }
 
   h5: {
-    esnextModules: ['taro-zui']
+    esnextModules: ['taro-ui']
   }
 }
