@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd49f54f-f5e4-47d8-b3ce-241e8f858e41" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/img/empty_store.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/store.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/bottom/bottom.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/bottom/bottom.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/addfood/addfood.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/addfood/addfood.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/addfood/addfood.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/addfood/addfood.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/food/category.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/food/category.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/food/category.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/food/category.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/food/food.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/food/food.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/food/food.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/food/food.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/food/foodlist.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/food/foodlist.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/food/foodlist.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/food/foodlist.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/head/activity.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/head/activity.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/head/activity.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/head/activity.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/head/head.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/head/head.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/head/head.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/head/head.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/head/top.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/head/top.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/head/top.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/head/top.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/common.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/common.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/events.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/events.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1XOA64yY4nVtXmckw1u8RI2JxbZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/img" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.selected.package.stylelint" value="$PROJECT_DIR$/node_modules/stylelint" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/img" />
+      <recent name="$PROJECT_DIR$/src/components/bottom" />
+      <recent name="$PROJECT_DIR$/src/utils" />
+      <recent name="$PROJECT_DIR$/src/components/addfood" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/img" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd49f54f-f5e4-47d8-b3ce-241e8f858e41" name="Default Changelist" comment="" />
+      <created>1580632079719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580632079719</updated>
+      <workItem from="1580632082574" duration="65000" />
+      <workItem from="1580906593081" duration="719000" />
+      <workItem from="1580911481003" duration="15754000" />
+      <workItem from="1580978936798" duration="254000" />
+      <workItem from="1580982170544" duration="1258000" />
+    </task>
+    <task id="LOCAL-00001" summary="[mod] 命名等">
+      <created>1580813218100</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580813218100</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[add] 菜品信息">
+      <created>1580880789805</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580880789808</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[add] 菜品信息">
+      <created>1580882593679</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580882593679</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[add] 添加菜品逻辑">
+      <created>1580914864542</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580914864542</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[mod] 命名等" />
+    <MESSAGE value="[add] 菜品信息" />
+    <MESSAGE value="[add] 添加菜品逻辑" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add] 添加菜品逻辑" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="267" y="23" key="CommitChangelistDialog2" timestamp="1580914864301">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="267" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1580914864301" />
+    <state x="108" y="59" key="DiffContextDialog" timestamp="1580882587732">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="108" y="59" key="DiffContextDialog/0.23.1440.877@0.23.1440.877" timestamp="1580882587732" />
+    <state x="205" y="103" key="SettingsEditor" timestamp="1580956741098">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="205" y="103" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1580956741098" />
+    <state x="0" y="380" key="Vcs.Push.Dialog.v2" timestamp="1580914866431">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="0" y="380" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1580914866431" />
+    <state x="351" y="718" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580969667634">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="351" y="718" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1580969667634" />
+    <state x="847" y="224" width="670" height="676" key="search.everywhere.popup" timestamp="1580896510391">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="847" y="224" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1580896510391" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/utils/common.jsx</url>
+          <line>32</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/utils/common.jsx</url>
+          <line>36</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
