@@ -25,7 +25,7 @@ class Head extends Component{
     let {store} = this.state
     return (<View className = 'head'>
       <Top/>
-      <Image className = 'bg' src = {require("../../assets/img/back.jpg")}/>
+      <Image className = 'bg' src = {require("../../assets/img/food.jpg")}/>
       <View className = 'store'>
         <Image className = 'store_img' src = {require("../../assets/img/store.jpg")}/>
         <View className = 'store_text'>
