@@ -33,6 +33,7 @@ WEB： num run dev:h5
     <img width="200" src="https://tva1.sinaimg.cn/large/006tNbRwgy1gbmyt3e8fhj30km146jvc.jpg">
     <img width="200" src="https://tva1.sinaimg.cn/large/006tNbRwgy1gbmyu10paaj30km146gpl.jpg">
 </figure>
+
 ### 拆分设计稿
 1、头部(components/head)
 ![](https://tva1.sinaimg.cn/large/006tNbRwgy1gbn1pj1hz2j30ku09k0u3.jpg)
